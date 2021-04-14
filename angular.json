@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "angular-forms-testing"
+  "defaultProject": "angular-forms-testing",
+  "cli": {
+    "analytics": false
+  }
 }
